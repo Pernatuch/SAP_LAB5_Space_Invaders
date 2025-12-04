@@ -2,11 +2,9 @@ import pygame
 import random
 import sys
 
-# --- Константы экрана ---
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 
-# --- Цвета ---
 WHITE = (255, 255, 255)
 PLAYER_COLOR = (0, 255, 0)
 INVADER_COLOR = (255, 0, 0)
@@ -156,3 +154,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
